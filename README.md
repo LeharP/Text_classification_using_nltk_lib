@@ -1,12 +1,6 @@
-Based on the content of the Jupyter notebook, it appears to be a project related to text classification using natural language processing (NLP). The project involves building a classifier to predict the sentiment of a given text (e.g., movie reviews) as positive or negative. This involves feature extraction, training a classifier, and evaluating its performance.
-
-Here’s a detailed **GitHub README** for the project:
-
----
-
 # Text Classification using Naive Bayes
 
-This repository contains a project focused on building a text classification model using Natural Language Processing (NLP) techniques. The model is trained to classify movie reviews as either positive or negative, utilizing the Naive Bayes classifier provided by the `nltk` library.
+This repository contains a project focused on building a text classification model of Hotel reviews using Natural Language Processing (NLP) techniques. The model is trained to classify movie reviews as either positive or negative, utilizing the Naive Bayes classifier provided by the `nltk` library.
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
