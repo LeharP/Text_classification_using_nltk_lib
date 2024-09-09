@@ -74,8 +74,4 @@ The classifier achieves an accuracy of **86%** on the test set, which is quite g
 - Positive indicators: `great`, `tones`, `frances`
 ![Example Output](output.png)
 
-## Contributing
-Contributions are welcome! If you'd like to improve the model, add more features, or enhance the preprocessing steps, feel free to fork the repository and submit a pull request.
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
